@@ -3,6 +3,12 @@ Simple Calculator Gui made in Python, using Tkinter.
 
 # Controls
 
-1-9 keys on keyboard - inputs digit key you press
-"+", "/", "-", "*" - inputs operators
-"s"
+"1"-"9": inputs digit key pressed
+====================================================
+"+", "/", "-", "*": inputs operator pressed
+====================================================
+"s": squares number
+====================================================
+"r": finds square root of number
+====================================================
+"backspace" / "del": clears all numberes
