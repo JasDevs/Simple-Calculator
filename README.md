@@ -1,5 +1,6 @@
 # Simple-Calculator
 Simple Calculator Gui made in Python, using Tkinter.
+This is the first real python program/app I have ever made.
 
 # Controls
 
@@ -12,3 +13,4 @@ Simple Calculator Gui made in Python, using Tkinter.
 "r": finds square root of number
 ====================================================
 "backspace" / "del": clears all numberes
+====================================================
